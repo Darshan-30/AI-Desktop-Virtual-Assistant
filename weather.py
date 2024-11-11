@@ -2,7 +2,7 @@ import requests
 import speak
 
 def Weather():
-    api_key = "6b9bb68df033ea68db62af657c0efe21"  # Replace with your OpenWeatherMap API key
+    api_key = "api_key"  # Replace with your OpenWeatherMap API key
     city = "Bengaluru"  # Replace with the city name you want weather info for
 
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
