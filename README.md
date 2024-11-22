@@ -11,6 +11,6 @@
   
 # Getting Started
 - Clone the repository:
-git clone https://github.com/yourusername/virtual-assistant.git
+(https://github.com/Darshan-30/AI-Desktop-Virtual-Assistant.git)
 - Install the required packages:
 pip install -r requirements.txt
